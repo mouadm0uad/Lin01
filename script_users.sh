@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Mot de passe par défaut
-PASSWORD="Pass123!"
+PASSWORD="Cybercap001@"
 
 for i in {1..5}
 do
